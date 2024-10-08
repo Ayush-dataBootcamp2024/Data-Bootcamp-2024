@@ -28,8 +28,8 @@ I have enrolled in the three-month Data Bootcamp programme with Just IT where I 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ayush-dataBootcamp2024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-dataBootcamp2024&stroke=facc15&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 <a href="http://www.github.com/Ayush-dataBootcamp2024"><img src="https://github-readme-stats.vercel.app/api?username=Ayush-dataBootcamp2024&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=3382ed&text_color=facc15&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ayush-dataBootcamp2024's GitHub stats" /></a>
+<a href="http://www.github.com/Ayush-dataBootcamp2024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-dataBootcamp2024&stroke=facc15&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
                
  
