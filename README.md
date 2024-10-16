@@ -6,7 +6,7 @@ An Aspiring Analyst
 I have enrolled in the three-month Data Bootcamp programme with Just IT where I am learning the basics of data analysis.
 
 *   🌍  I'm based in London
-*   🖥️  See my portfolio at [My Portfolio](http://https://sites.google.com/d/1pGaicdZjlpoDl6VaPV3JjsKpx7s2KpD6/p/1QaVwqOxIBlX-yMfBMZfHwZP1AuSSbhDA/edit)
+*   🖥️  See my portfolio at [My Portfolio](https://sites.google.com/view/ayush-thapa/home)
 *   🧠  I'm learning the fundamentals of Data analytics
 *   ⚡  I am looking for entry-level opportunities in data analysis. Thank you. ^\_^
 
